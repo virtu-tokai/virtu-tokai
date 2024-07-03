@@ -3,7 +3,7 @@
 <p>- Atualmente procurando por estágio na área de Front-End 🔭</p>
 
 <div>
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=virtu-tokai&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=virtu-tokai&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=monokai"/>
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtu-tokai&layout=compact&langs_count=16&theme=monokai"/>
 </div>
 
