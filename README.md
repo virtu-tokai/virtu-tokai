@@ -4,7 +4,7 @@
 
 <div>
   <img align=center src="https://github-readme-stats.vercel.app/api?username=virtu-tokai&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=monokai"/>
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtu-tokai&layout=compact&langs_count=16&theme=monokai"/>
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtu-tokai&layout=compact&langs_count=16&theme=monokai"/>
 </div>
 
 ### **Estudando 🌱**
