@@ -1,10 +1,13 @@
 ## Olá! Eu sou o Victor Moreira (Tokai) 🧡
-<p>Estudante de Ciência da Computação, Ilustrador Digital, Aspirante Desenvolvedor Front-End e Pai de Gato ✨</p>
-<p>Atualmente procurando por estágio na área de Front-End 🔭</p>
+<p>- Estudante de Ciência da Computação, Ilustrador Digital, Aspirante Desenvolvedor Front-End e Pai de Gato ✨</p>
+<p>- Atualmente procurando por estágio na área de Front-End 🔭</p>
+
+<div>
+  <img align=right src="https://github-readme-stats.vercel.app/api?username=virtu-tokai&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=monokai"/>
+</div>
 
 ### **Estudando 🌱**
 <div>
-  <img align=right src="https://github-readme-stats.vercel.app/api?username=virtu-tokai&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=monokai"/>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" target="_blank"/>
@@ -17,7 +20,6 @@
 
 ### **Ferramentas 🔨**
 <div>
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtu-tokai&show_icons=true&layout=compact&langs_count=16&theme=monokai"/>
   <img src="https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" target="_blank"/>
   <img src="https://img.shields.io/badge/PyCharm-yellow?style=for-the-badge&logo=pycharm&logoColor=white" target="_blank"/>
   <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
