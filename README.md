@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Victor Moreira (Tokai) 🧡
-Estudante de Ciência da Computação, Ilustrador Digital, Aspirante Desenvolvedor Front-End e Pai de Gato ✨
-Atualmente procurando por estágio na área de Front-End 🔭
+<p>Estudante de Ciência da Computação, Ilustrador Digital, Aspirante Desenvolvedor Front-End e Pai de Gato ✨</p>
+<p>Atualmente procurando por estágio na área de Front-End 🔭</p>
 
 ### **Estudando 🌱**
 <div>
