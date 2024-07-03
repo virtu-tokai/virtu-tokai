@@ -1,25 +1,35 @@
-# About Me (Work In Progress)
+## Olá! Eu sou o Victor Moreira (Tokai) 🧡
+Estudante de Ciência da Computação, Ilustrador Digital, Aspirante Desenvolvedor Front-End e Pai de Gato ✨
+Atualmente procurando por estágio na área de Front-End 🔭
 
-Hi, my name's **Victor Moreira Silva**, but you can call me **Tokai**. Welcome 🧡
+### **Estudando 🌱**
+<div>
+  <img align=right src="https://github-readme-stats.vercel.app/api?username=virtu-tokai&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=monokai"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" target="_blank"/>
+</div>
 
-I'm Computer's Science Student, Digital Illustrator and aspiring Front-End Developer based on São Paulo, Brazil 🇧🇷.
+### **Habilidades 👨‍💻**
+<div>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
+</div>
 
-### **Studying**
-![Alt](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=7289DA)
-![Alt](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=7289DA)
-![Alt](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=7289DA)
+### **Ferramentas 🔨**
+<div>
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtu-tokai&show_icons=true&layout=compact&langs_count=16&theme=monokai"/>
+  <img src="https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/PyCharm-yellow?style=for-the-badge&logo=pycharm&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/Krita-ff54b5?style=for-the-badge&logo=krita&logoColor=white" target="_blank"/>
+</div>
 
-### **Main Skills**
-
-### **Tools**
-![Alt](https://img.shields.io/badge/Vs_Code-000?style=for-the-badge&logo=vscode&logoColor=7289DA)
-![Alt](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=7289DA)
-![Alt](https://img.shields.io/badge/Krita-000?style=for-the-badge&logo=krita&logoColor=7289DA)
-
-
-### **Connect With Me**
-[![Alt](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=7289DA)](https://instagram/virtu_tokai)
-[![Alt](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7289DA)](https://www.linkedin.com/in/victor-moreira-silva-a81b5723a/)
-[![Alt](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=7289DA)](mailto:vmvmsilva57@gmail.com)
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virtu-tokai&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=30,FFF,D6DAFF&border_color=FFF&text_color=000&theme=jolly) -->
+### **Contatos 🌐**
+<div>
+  <a href="https://instagram/virtu_tokai" target="_blank"/>
+    <img src="https://img.shields.io/badge/Instagram-ff54b5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/victor-moreira-silva-a81b5723a" target="_blank"/>
+    <img src="https://img.shields.io/badge/LinkedIn-5478ff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="mailto:vmvmsilva57@gmail.com" target="_blank"/>
+    <img src="https://img.shields.io/badge/Gmail-f63b3b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+</div>
