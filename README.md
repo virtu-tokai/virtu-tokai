@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Victor Moreira (Tokai) 🧡
-<p>- Estudante de Ciência da Computação, Ilustrador Digital, Aspirante Desenvolvedor Front-End e Pai de Gato ✨</p>
+<p>- Estudante de Ciência da Computação | Ilustrador Digital | Aspirante Desenvolvedor Front-End ✨</p>
 <p>- Atualmente procurando por estágio na área de Front-End 🔭</p>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=virtu-tokai&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=monokai"/>
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtu-tokai&layout=compact&langs_count=16&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtu-tokai&layout=compact&langs_count=16&theme=monokai"/>
 </div>
 
 ### **Estudando 🌱**
