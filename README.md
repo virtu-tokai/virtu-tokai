@@ -1,5 +1,5 @@
-## Olá! Eu sou o Victor Moreira (Tokai) 🧡
-<p>- Estudante de Ciência da Computação | Ilustrador Digital | Aspirante Desenvolvedor Front-End ✨</p>
+## Olá! Eu sou o Victor Moreira (Corvit) 🧡
+<p>- Estudante de Engenharia de Software | Ilustrador Digital | Aspirante Desenvolvedor Front-End ✨</p>
 <p>- Atualmente procurando por estágio na área de Front-End 🔭</p>
 
 <div>
